@@ -8,7 +8,7 @@ tags:
   - blog
   - 
   
-draft: true
+draft: false
 ---
 Lorem ipsum ne sit tale justo indoctum. Ex idque percipit est. Cu quaeque accusata quo, doctus aliquyam eam cu. Pri dicam persecuti ut, tantas propriae ad sea. Vix at causae verear expetendis, ut sed omnis vitae impetus. Graece eripuit facilisis eos ea, in maiorum verterem duo.
 
