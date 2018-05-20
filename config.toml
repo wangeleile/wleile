@@ -25,11 +25,11 @@ defaultContentLanguage = "en"
 description = "Willkommen zu Wangeleiles Welt"
 title404 = "Hier ist nichts."
 
-[params.assets]
+[params1.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+gopher = "test" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
@@ -105,8 +105,20 @@ page = "/:slug/"
 [[menu.main]]
 name = "Home"
 weight = -10
-identifier = "Blog"
-url = "https://wangeleile.de"
+identifier = "Home"
+url = "/"
+
+[[menu.main]]
+name = "Posts"
+weight = 20
+identifier = "posts"
+url = "/posts/"
+
+[[menu.main]]
+name = "Tags"
+weight = 30
+identifier = "tags"
+url = "/tags/"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -114,6 +126,17 @@ hrefTargetBlank = true
 [languages]
 # edit this block for your own language
 [languages.en]
-lang = "de-De"
-languageName = "Deutsch"
+lang = "en"
+languageName = "English"
 weight = 1
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+rssLimit = 10
+
+[author]
+name = "Wangeleile"
+email = "wangeleile@gmail.com"
