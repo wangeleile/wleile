@@ -19,7 +19,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 [params.info]
 description = ""
@@ -135,9 +135,9 @@ hrefTargetBlank = true
 
 [languages]
 # edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
+[languages.de]
+lang = "de"
+languageName = "German"
 weight = 1
 
 [outputFormats]
