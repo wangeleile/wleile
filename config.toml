@@ -25,6 +25,9 @@ defaultContentLanguage = "en"
 description = ""
 title404 = "Hier ist nichts."
 
+[params]
+customCSS = [ "custom.css" ]
+
 [params1.assets]
 favicon = "favicon.ico"
 customCSS = [ "css/custom.css" ]
@@ -49,7 +52,7 @@ accentColor = "#ffcd00"
 hideMainMenu = false
 
 [params.sidebar]
-enable = false
+enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]

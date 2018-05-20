@@ -1,5 +1,5 @@
 <link rel='icon' href='{{ ( or .Site.Params.assets.favicon "favicon.ico" ) | relURL }}'>
-<link rel='stylesheet' href='{{ print "/assets/css/" .Site.Data.assets.main.css | relURL  }}'><link rel='stylesheet' href='/css/custom.css'>
+<link rel='stylesheet' href='{{ print "/assets/css/" .Site.Data.assets.main.css | relURL  }}'>
 
 
 {{- range .Site.Params.assets.customCSS -}}
