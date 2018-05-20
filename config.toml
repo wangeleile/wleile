@@ -22,12 +22,12 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Willkommen zu Wangeleiles Welt"
+description = ""
 title404 = "Hier ist nichts."
 
 [params1.assets]
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
+customCSS = [ "css/custom.css" ]
 customJS = ["js/custom.js"]
 gopher = "test" # used in 404 template ( Generator: https://gopherize.me )
 
@@ -88,10 +88,10 @@ enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
 
-[params.comments.staticman.github]
-username = "MunifTanjim"
-repository = "minimo"
-branch = "master"
+#[params.comments.staticman.github]
+#username = "MunifTanjim"
+#repository = "minimo"
+#branch = "master"
 
 [taxonomies]
 author = "authors"
