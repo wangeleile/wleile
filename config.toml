@@ -32,7 +32,7 @@ customCSS = [ "custom.css" ]
 favicon = "favicon.ico"
 customCSS = [ "css/custom.css" ]
 customJS = ["js/custom.js"]
-gopher = "test" # used in 404 template ( Generator: https://gopherize.me )
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
@@ -52,7 +52,7 @@ accentColor = "#ffcd00"
 hideMainMenu = false
 
 [params.sidebar]
-enable = true
+enable = false
 
 [params.widgets]
 homepage = ["recent_posts"]
@@ -112,16 +112,23 @@ identifier = "Home"
 url = "/"
 
 [[menu.main]]
-name = "Posts"
+name = "Tags"
+weight = 45
+identifier = "tags"
+url = "/tags/"
+
+
+[[menu.main]]
+name = "Blog"
 weight = 20
 identifier = "posts"
 url = "/posts/"
 
 [[menu.main]]
-name = "Tags"
-weight = 30
-identifier = "tags"
-url = "/tags/"
+name = "Projects"
+weight = 60
+identifier = "projects"
+url = "/tags/Projekt/"
 
 [blackfriday]
 hrefTargetBlank = true
