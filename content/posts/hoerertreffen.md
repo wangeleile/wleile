@@ -16,3 +16,5 @@ Und schon ist es vorbei. Das aller erste Hörertreffen. Ehrlichweise muss ich sa
 Vor nicht mal einem Jahr bin ich mit den beiden Wahnsinnigen mit dem Podcast angefangen und nun sind wir schon bei über 20 Folgen. Genau wie alle anderen haben wir uns auch am Anfang durchgewurschtelt, aber mittlerweile wird es immer besser.
 
 Was mich am meisten beeindruckt hat, war die anderen zu treffen und festzustellen, dass man/frau ähnlich tickt und sich gleich etwas zu erzählen hat. Wilde Diskussionen über Fernsehserien, Lieblingscomputer und dem Wunsch bei einen LARP mal zuzuschauen (aber nicht mitzumachen!!). 
+
+Als ich dann auch noch Feedback zu unserem Podcast bekommen habe, war ich schon ein wenig verlegen (Und das soll was heißen). Ich glaube, ich setze mich gerne ans Mikrofon, dass aber andere auch zuhören dringt erst zeitversetzt in mein Gehirn. ;-)
