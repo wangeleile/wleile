@@ -9,7 +9,7 @@ menu:
 Aktuell befinden sich zwei Podcasts von mir in Vorbereitung: 
 
 
-- [Hör Wat](https://hoer-wat.de)
-- try-n-error
+- [Hör Wat](https://hoer-wat.de) - zur Zeit inaktiv
+- Unser neue Podcast kommt bald :-)
 
 Hierzu später mehr.
