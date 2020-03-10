@@ -12,6 +12,8 @@ tags:
 draft: false
 ---
 
+![Vorsicht](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_06_delay-s.gif
+
 Moin, 
 ich weiß, ihr könnt es nicht mehr hören. Corona kommt, die Welt geht unter. 
 
@@ -31,7 +33,7 @@ Worum es hierbei geht, beschreibt diese Grafik in Perfektion. Vielen Dank @Sioux
 
 ![Egal](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_00_delay-3s.gif)
 
-![Vorsicht](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_06_delay-3s.gif
+
 
 Wir müssen versuchen unser Gesundheitssystem arbeitsfähig zu halten und das klappt nur, wenn jeder von uns seinen kleinen Beitrag leistet. 
 Wascht die Hände und drückt damit die Kurve der Infektion unter die max. Leistungsgrenze unseres Gesundheitssystems. 
