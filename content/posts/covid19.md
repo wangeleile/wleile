@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![Vorsicht](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_06_delay-s.gif
+![Vorsicht](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_06_delay-s.gif)
 
 Moin, 
 ich weiß, ihr könnt es nicht mehr hören. Corona kommt, die Welt geht unter. 
