@@ -29,7 +29,9 @@ Jetzt aber mal etwas wichtiges. Ich höre jeden Tag den Podcast https://www.ndr.
 Daher ist die Empfehlung von Prof. Drosten, die Älteren also unsere Eltern, Omas und Opas, … zu schützen. Was wohl nur bedeuten kann, für einige Wochen und Monate den Einkauf zu übernehmen, große Veranstaltungen zu vermeiden und die Enkel NICHT zu Ihnen zu bringen. 
 Denn je länger die Infektion verhindert wird, desto länger hat unser Gesundheitssystem Zeit allen zu helfen. (Hier nochmal den Hinweis das in Wuhan das Gesundheitssystem zusammenbrach und die Sterblichkeit dadurch stark erhöht. So etwas hier in Deutschland würde es für alle viel schlimmer machen.)
 
-Worum es hierbei geht, beschreibt diese Grafik in Perfektion. Vielen Dank @SiouxSieW für diesen genialen ![Artikel](https://thespinoff.co.nz/society/09-03-2020/the-three-phases-of-covid-19-and-how-we-can-make-it-manageable/). Ich habe zwei Frames ins Deutsche übersetzt. 
+Worum es hierbei geht, beschreibt diese Grafik in Perfektion. Vielen Dank @SiouxSieW für diesen genialen ![Artikel(https://thespinoff.co.nz/society/09-03-2020/the-three-phases-of-covid-19-and-how-we-can-make-it-manageable/). 
+
+Ich habe zwei Frames ins Deutsche übersetzt. 
 
 ![Egal](/posts/images/german-covid-19-curves-graphic-social-v3-1-gif_00_delay-3s.gif)
 
